@@ -1394,3 +1394,100 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.05.23-16.26.06:994][367]LogViewport: Scene viewport resized to 2830x1519, mode Windowed.
 [2023.05.23-16.26.07:043][367]LogViewport: Scene viewport resized to 2574x1286, mode Windowed.
 [2023.05.23-16.26.07:094][367]LogViewport: Scene viewport resized to 2554x1272, mode Windowed.
+[2023.05.23-16.34.06:573][404]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.34.06:888][404]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.07:222][405]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=24.05
+[2023.05.23-16.34.07:222][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.07:223][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.11:811][419]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.34.11:887][419]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.12:222][420]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.02
+[2023.05.23-16.34.12:222][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.12:222][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.14:065][426]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.34.14:220][426]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.14:535][427]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.34.14:555][427]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.18
+[2023.05.23-16.34.14:555][427]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.14:557][427]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.14:886][428]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.15:221][429]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.99
+[2023.05.23-16.34.15:221][429]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.15:223][429]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.17:884][437]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.34.17:887][437]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.18:122][438]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.34.18:222][438]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=43.71
+[2023.05.23-16.34.18:222][438]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.18:224][438]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.18:553][439]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.18:889][440]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.24
+[2023.05.23-16.34.18:889][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.18:890][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.34.23:756][455]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.34.23:887][455]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.34.25:554][460]LogAudioMixer: Error: XAudio2System->CreateMasteringVoice() -> 0x88960004: XAUDIO2_E_DEVICE_INVALIDATED (line: 345) with Args (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857} Name=Headset Earphone (2- Wireless Controller))
+[2023.05.23-16.34.25:609][461]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.34.26:556][463]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.85
+[2023.05.23-16.34.26:556][463]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.34.26:557][463]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.36.46:362][883]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.36.46:577][883]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.36.46:913][884]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.70
+[2023.05.23-16.36.46:913][884]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.36.46:914][884]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.36.50:738][896]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.36.50:911][896]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.36.51:246][897]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.61
+[2023.05.23-16.36.51:246][897]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.36.51:247][897]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.37.00:582][926]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.37.00:912][926]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.37.01:247][927]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.88
+[2023.05.23-16.37.01:247][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.37.01:248][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.37.11:196][957]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.37.11:246][957]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.37.11:581][958]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=17.25
+[2023.05.23-16.37.11:581][958]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.37.11:582][958]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.37.40:780][ 46]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.37.40:919][ 46]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.37.41:254][ 47]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.17
+[2023.05.23-16.37.41:254][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.37.41:256][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.37.43:416][ 54]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.37.43:587][ 54]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.37.43:921][ 55]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.81
+[2023.05.23-16.37.43:921][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.37.43:923][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.37.52:007][ 80]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.37.52:254][ 80]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.37.52:589][ 81]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=20.58
+[2023.05.23-16.37.52:590][ 81]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.37.52:591][ 81]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.38.19:796][163]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.38.19:933][163]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.38.20:267][164]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.58
+[2023.05.23-16.38.20:267][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.38.20:270][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.38.21:689][169]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.38.21:934][169]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.38.22:268][170]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=21.29
+[2023.05.23-16.38.22:269][170]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.38.22:270][170]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.38.23:857][175]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.38.23:934][175]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.38.24:268][176]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=10.96
+[2023.05.23-16.38.24:269][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.38.24:270][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.38.24:550][177]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headset Earphone (2- Wireless Controller), InstanceID=1
+[2023.05.23-16.38.24:600][177]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.38.24:935][178]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=32000, DeviceID={0.0.0.00000000}.{a64b84fc-31da-4ee2-8be5-99bb18881857}, Name=Headset Earphone (2- Wireless Controller)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.34
+[2023.05.23-16.38.24:935][178]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.38.24:936][178]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.05.23-16.38.30:755][196]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=LG TV (NVIDIA High Definition Audio), InstanceID=1
+[2023.05.23-16.38.30:937][196]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11144
+[2023.05.23-16.38.31:271][197]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{f0935934-bce0-478c-8fd4-e268a9160e3a}, Name=LG TV (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.20
+[2023.05.23-16.38.31:271][197]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.05.23-16.38.31:273][197]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
